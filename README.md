@@ -1,6 +1,6 @@
 # System Design
 
-By ->
-Shresth Garg
-23BCS11679
-KRG-2A
+**By:**  
+Shresth Garg  
+**Roll No:** 23BCS11679  
+**Section:** KRG-2A
