@@ -1,5 +1,6 @@
-# System_design_sem6
+# System Design
 
 By ->
 Shresth Garg
 23BCS11679
+KRG-2A
